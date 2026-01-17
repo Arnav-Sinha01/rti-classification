@@ -1,4 +1,4 @@
--> 🇮🇳 AI-Powered RTI Query Classification
+-> 🇮🇳 AI-Powered RTI Query Classification 
 
 This NLP project automates the processing of Right to Information (RTI) queries. It uses a fine-tuned **Google mT5 (multilingual T5)** transformer to:
 1. **Translate** queries from Bengali to English.
